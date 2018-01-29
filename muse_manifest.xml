@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="supplyme.com" resolutions="1x" timestamp="1517262020493">
+  <folder name="css">
+    <file name="site_global.css" crc="426628714"/>
+    <file name="index.css" crc="306733825" ref="index"/>
+    <file name="nomq_index.css" crc="3982625229" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u1840.php" crc="504312143" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logowithoutbackground_1.png" crc="3925247944" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="running.png" crc="4145496731" seo="true" ref="index"/>
+    <file name="armchair.png" crc="4183269805" seo="true" ref="index"/>
+    <file name="light-bulb.png" crc="4240169873" seo="true" ref="index"/>
+    <file name="schermafbeelding 2018-01-28 om 122748 2.png" crc="427147627" seo="true" ref="index"/>
+    <file name="cancel icon.png" crc="3955558593" seo="true" ref="index"/>
+    <file name="check icon.png" crc="4196170127" seo="true" ref="index"/>
+    <file name="featured.png" crc="4029802373" seo="true" ref="index"/>
+    <file name="final_sample.png" crc="4294389467" seo="true" ref="index"/>
+    <file name="u3960.png" crc="275639957" ref="index"/>
+    <file name="u3960-r.png" crc="120285887" ref="index"/>
+    <file name="u3960-a.png" crc="120285887" ref="index"/>
+    <file name="u39602.png" crc="406650039" ref="index"/>
+    <file name="u3960-r2.png" crc="3813402814" ref="index"/>
+    <file name="u3960-a2.png" crc="3813402814" ref="index"/>
+    <file name="u39603.png" crc="164194895" ref="index"/>
+    <file name="u3960-r3.png" crc="267559535" ref="index"/>
+    <file name="u3960-a3.png" crc="267559535" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3783493796" seo="true" mt="1517261322558" redirect="true"/>
+</manifest>
